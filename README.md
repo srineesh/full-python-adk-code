@@ -12,8 +12,8 @@ The repository is organized by tutorials and concepts.
 - **`agent_team/`**: Contains code from the ["Agent Team" tutorial series](https://google.github.io/adk-docs/tutorials/agent-team/#step-4-adding-memory-and-personalization-with-session-state).
   - [`step1-weather_agent_demo.py`](agent_team/step1-weather_agent_demo.py): **Step 1: Basic Weather Lookup**. A single-file implementation of the basic weather agent that defines the tool, agent, session, and runner in one script.
   - [`step2-weather_agent_with_fallback.py`](agent_team/step2-weather_agent_with_fallback.py): **Step 2**. Implementation of the weather agent with model fallback capabilities.
-  - [`step3_agents.py`](agent_team/step3_agents.py): **Step 3**. Implementation of the weather agent with fallback and session state.
-  - [`step3_main.py`](agent_team/step3_main.py): **Step 3**. Implementation of the weather agent with fallback and session state.
+  - [`step3_agents.py`](agent_team/step3_agents.py): **Step 3**. Implementation of sub agents with their tools.
+  - [`step3_main.py`](agent_team/step3_main.py): **Step 3**. Implementation of the first multi agent with tools.
   - (More steps to be added daily!)
 
 - **`multi_tool_agent/`**: Contains code from the ["Multi-Tool Agent" tutorial series](https://google.github.io/adk-docs/get-started/quickstart/). Experiments with multi-tool agents.
