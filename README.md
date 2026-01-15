@@ -9,7 +9,7 @@ My goal for this repository is to document my daily learning progress with Googl
 
 The repository is organized by tutorials and concepts.
 
-- **`agent_team/`**: Contains code from the "Agent Team" tutorial series.
+- **`agent_team/`**: Contains code from the ["Agent Team" tutorial series](https://google.github.io/adk-docs/tutorials/agent-team/#step-4-adding-memory-and-personalization-with-session-state).
   - [`step1-weather_agent_demo.py`](agent_team/step1-weather_agent_demo.py): **Step 1: Basic Weather Lookup**. A single-file implementation of the basic weather agent that defines the tool, agent, session, and runner in one script.
   - [`step2-weather_agent_with_fallback.py`](agent_team/step2-weather_agent_with_fallback.py): **Step 2**. Implementation of the weather agent with model fallback capabilities.
   - (More steps to be added daily!)
