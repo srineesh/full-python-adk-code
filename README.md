@@ -14,7 +14,7 @@ The repository is organized by tutorials and concepts.
   - [`step2-weather_agent_with_fallback.py`](agent_team/step2-weather_agent_with_fallback.py): **Step 2**. Implementation of the weather agent with model fallback capabilities.
   - (More steps to be added daily!)
 
-- **`multi_tool_agent/`**: Experiments with multi-tool agents.
+- **`multi_tool_agent/`**: Contains code from the ["Agent Team" tutorial series](https://google.github.io/adk-docs/get-started/quickstart/). Experiments with multi-tool agents.
 
 ## 🚀 Getting Started
 
